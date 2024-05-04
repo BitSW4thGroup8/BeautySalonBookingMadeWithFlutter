@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(beauty_salon_booking LANGUAGES CXX)
+project(flutter_beauty_salon_booking LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "beauty_salon_booking")
+set(BINARY_NAME "flutter_beauty_salon_booking")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

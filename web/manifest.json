@@ -1,6 +1,6 @@
 {
-    "name": "beauty_salon_booking",
-    "short_name": "beauty_salon_booking",
+    "name": "flutter_beauty_salon_booking",
+    "short_name": "flutter_beauty_salon_booking",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
